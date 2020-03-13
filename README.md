@@ -1,3 +1,5 @@
-# Pendahuluan
+# Hasil Analisis Data
 
-Berikut saya lampirkan hasil analisis data saya dalam bentuk file ipynb.
+### No 1
+
+
